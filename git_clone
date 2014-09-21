@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words.
+A git clone copies a git repo, most commonly from a remote server to your local directory
